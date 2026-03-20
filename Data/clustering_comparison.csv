@@ -1,0 +1,3 @@
+algorithm,n_clusters,noise_pct,silhouette,davies_bouldin
+DBSCAN,122,22.9,-0.0281,1.8094
+K-Means,5,0.0,0.2824,1.1747
