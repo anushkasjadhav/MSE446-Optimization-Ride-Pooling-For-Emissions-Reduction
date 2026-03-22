@@ -1,0 +1,14 @@
+# Large raw data files (too large for GitHub — store locally or use Git LFS)
+Data/raw/merged_trip_emissions_coordinates.csv
+Data/raw/FHVTrip_VehicleEmissions_Merged_2023.csv
+
+# Large generated outputs
+Data/generated/trips_dbscan_labeled_full.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
