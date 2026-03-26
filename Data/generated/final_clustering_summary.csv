@@ -1,4 +1,4 @@
 Algorithm,N Clusters,Noise %,Silhouette,Davies-Bouldin,% Poolable,CO₂ Savings %
-DBSCAN,80,15.8,-0.1192,2.1875,13.4,6.3
-K-Means,16,0.0,0.295,1.042,8.6,4.3
-Hierarchical,29,0.0,,,4.6,2.1
+DBSCAN,80,15.8,-0.1192,2.1875,4.8,1.0
+K-Means,16,0.0,0.295,1.042,2.6,0.6
+Hierarchical,17,0.0,0.2396,1.11,2.3,0.5
