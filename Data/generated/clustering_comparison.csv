@@ -1,4 +1,4 @@
 algorithm,n_clusters,noise_pct,silhouette,davies_bouldin,cluster_size_std
 DBSCAN,80,15.8,-0.1192,2.1875,160.9
 K-Means,16,0.0,0.295,1.042,306.9
-Hierarchical,29,0.0,0.2132,1.1212,127.0
+Hierarchical,17,0.0,0.2396,1.11,302.0
