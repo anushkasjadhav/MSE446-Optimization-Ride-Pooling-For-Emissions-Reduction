@@ -1,0 +1,4 @@
+algorithm,n_clusters,silhouette,davies_bouldin,noise_pct
+KMeans,29,0.2489,1.0823,0.0
+Hierarchical,29,0.2051,1.1591,0.0
+DBSCAN,112,-0.0631,1.7312,13.82
