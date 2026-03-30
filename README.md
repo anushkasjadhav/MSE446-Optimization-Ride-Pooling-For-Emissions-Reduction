@@ -94,10 +94,11 @@ MSE446-Optimization-Ride-Pooling-For-Emissions-Reduction/
 ### Accessing the Data
 
 #### Option 1: Download from Source
-1. Navigate to https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-2. Apply filters [ask Kanika and Anushka]
-3. Download folder
-4. Upload to local GitHub repo 
+1. Navigate to [https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page](https://data.cityofnewyork.us/Transportation/2023-High-Volume-FHV-Trip-Data/u253-aew4/about_data)
+2. In order to reduce the file size to allow for easier download clean the data by applying filters to the data. Remove unnecessary rows such as driver fees, passenger fares, airport fees, tolls, cbd_congestion_fee, bcf and tips. 
+3. Select the filter to include only riders who have picked the rideshare function within the app and been matched with a rideshare by filtering by "Y" within both "shared_request_flag" and "shared_match_flag" categories.
+4. Download folder
+5. Upload to local GitHub repo 
 
 #### Option 2: Use Pre-processed Data (Recommended)
 1. The preprocessed data files can be found here [add google drive link]
